@@ -1,0 +1,73 @@
+
+{
+  "sugar": {
+    "category": "Sweetener",
+    "purpose": "Adds sweetness and may contribute to texture.",
+    "review_note": "Check the amount per serving and the overall nutrition information.",
+    "common_names": ["sucrose", "table sugar"],
+    "context": "Its presence alone does not determine whether a food is healthy or unhealthy."
+  },
+  "glucose syrup": {
+    "category": "Sweetener",
+    "purpose": "Provides sweetness, texture and consistency.",
+    "review_note": "Review the total sugars and serving size on the nutrition label.",
+    "common_names": ["corn syrup"],
+    "context": "The nutritional impact depends on the formulation and amount consumed."
+  },
+  "citric acid": {
+    "category": "Acidity regulator",
+    "purpose": "Helps regulate acidity and can contribute to flavor stability.",
+    "review_note": "Check the package for the ingredient name and any stated purpose.",
+    "common_names": ["e330"],
+    "context": "Its presence alone is not evidence that a food is harmful."
+  },
+  "sodium benzoate": {
+    "category": "Preservative",
+    "purpose": "Helps inhibit the growth of certain microorganisms in suitable formulations.",
+    "review_note": "Interpret it in the context of the product and applicable food standards.",
+    "common_names": ["e211"],
+    "context": "The label alone does not establish the amount present or an individual's response."
+  },
+  "potassium sorbate": {
+    "category": "Preservative",
+    "purpose": "Helps control yeast and mold growth in suitable foods.",
+    "review_note": "Review the complete ingredient list and product information.",
+    "common_names": ["e202"],
+    "context": "Presence alone does not mean a food is unsafe."
+  },
+  "lecithin": {
+    "category": "Emulsifier",
+    "purpose": "Helps ingredients such as fat and water mix more consistently.",
+    "review_note": "Check the specific source if you need to screen for soy or another allergen.",
+    "common_names": ["soy lecithin", "e322"],
+    "context": "The source and labeling details matter for individual allergen concerns."
+  },
+  "monosodium glutamate": {
+    "category": "Flavor enhancer",
+    "purpose": "Enhances savory flavor.",
+    "review_note": "Consider the full product composition and nutrition information.",
+    "common_names": ["msg", "e621"],
+    "context": "Its presence alone is not evidence that a food is harmful."
+  },
+  "ascorbic acid": {
+    "category": "Antioxidant",
+    "purpose": "Can help limit oxidation and may be used as a source of vitamin C.",
+    "review_note": "Check the product's nutrition panel for declared vitamin information.",
+    "common_names": ["vitamin c", "e300"],
+    "context": "The function depends on how the ingredient is used in the product."
+  },
+  "maltodextrin": {
+    "category": "Carbohydrate ingredient",
+    "purpose": "May provide bulk, texture or carrier functionality.",
+    "review_note": "Review total carbohydrate information and serving size.",
+    "common_names": [],
+    "context": "Its presence alone does not establish a product's overall nutritional quality."
+  },
+  "whey": {
+    "category": "Milk-derived ingredient",
+    "purpose": "Can contribute protein, flavor or texture.",
+    "review_note": "Relevant to people avoiding milk proteins; verify the exact package allergen statement.",
+    "common_names": ["whey powder", "whey protein"],
+    "context": "Do not use an AI result as a guarantee of allergen safety."
+  }
+}

@@ -1,0 +1,6 @@
+streamlit>=1.40,<2
+google-genai>=1.0,<3
+Pillow>=10,<14
+python-dotenv>=1,<2
+jsonschema>=4,<5
+pytest>=8,<10

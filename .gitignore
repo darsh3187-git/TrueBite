@@ -1,0 +1,9 @@
+.env
+truebite/.env
+.venv/
+truebite/.venv/
+__pycache__/
+truebite/**/__pycache__/
+.pytest_cache/
+truebite/.pytest_cache/
+*.py[cod]
